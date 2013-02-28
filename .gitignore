@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Custom VS files
+*.opensdf
+
+# Custom Directories
+# IntelliSense parser folder
+ipch
+# Binaries folder
+Debug
