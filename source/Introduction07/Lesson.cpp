@@ -326,7 +326,7 @@ BOOL CreateGLWindow(char* title, int width, int height, int bits, bool fullscree
 	// Create The Window
 	if (!(hWnd=CreateWindowEx(	dwExStyle,							// Extended Style For The Window
 		"OpenGL",							// Class Name
-		"Daft Punk - Night Mode",								// Window Title
+		"Mert Salik",								// Window Title
 		dwStyle |							// Defined Window Style
 		WS_CLIPSIBLINGS |					// Required Window Style
 		WS_CLIPCHILDREN,					// Required Window Style
